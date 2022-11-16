@@ -1,0 +1,7 @@
+main: cc.items.deus.Main
+name: Items
+author: Deus
+version: 1.0
+commands:
+  items:
+    description: Give custom items
